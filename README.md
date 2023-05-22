@@ -29,3 +29,9 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
 - [Intro to Pandas Data Structures](https://pandas.pydata.org/pandas-docs/stable/dsintro.html)
 - [Descriptive Statistics for Pandas DataFrame](https://chrisalbon.com/python/data_wrangling/pandas_dataframe_descriptive_stats/)
+
+
+
+
+
+
